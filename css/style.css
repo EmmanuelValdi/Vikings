@@ -1,0 +1,53 @@
+body {
+    background-image: url("../img/banner.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 700px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif ;
+}
+span {
+    font-size: 12px;
+}
+.navbar {
+    background-color: rgb(0, 0, 0, 0.5);
+    width: 100%;
+}
+.nav-link {
+    color: #ffffff;
+    text-transform: uppercase;
+    font-weight: bold;
+    font-size: 15px;
+}
+.nav-link:hover {
+    color: #ffffff;
+}
+.nav-item {
+    padding: 0 20px;
+}
+.nav-btn {
+    background-color: rgb(0, 0, 0, 0.5);
+    color: #ffffff;
+    border-radius: 0px;
+}
+.img {
+    height: 55px;
+}
+.header {
+    padding: 130px 0 0 130px;
+}
+.divider {
+    width: 40px;
+    height: 1px;
+    background-color: #ff0000
+}
+.head-btn:hover {
+    background-color: #ffffff;
+    border-color: #ff0000;
+    color: #ff0000;
+}
+.text-first {
+    font-size: 14px;
+}
+.head-btn {
+    background-color: #ff0000;
+}
