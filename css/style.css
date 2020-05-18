@@ -5,6 +5,7 @@ body {
     height: 700px;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif ;
 }
+/* -- Navbar -- */
 span {
     font-size: 12px;
 }
@@ -29,6 +30,7 @@ span {
     color: #ffffff;
     border-radius: 0px;
 }
+/* -- Header -- */
 .img {
     height: 55px;
 }
